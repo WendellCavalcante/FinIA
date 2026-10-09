@@ -1,0 +1,11 @@
+{
+  "name": "finia-prototipo",
+  "version": "0.1.0",
+  "description": "FinIA — Co-piloto financeiro para pequenos negócios (protótipo funcional do MVP)",
+  "type": "module",
+  "scripts": {
+    "start": "npx serve .",
+    "test": "node --test"
+  },
+  "license": "MIT"
+}
